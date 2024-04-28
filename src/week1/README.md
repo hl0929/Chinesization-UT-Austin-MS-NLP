@@ -779,5 +779,4 @@ print("验证集准确率：", valid_accuracy)
 
 感知器和逻辑回归可以看作是最简单的线性分类器，逻辑回归可以被视为感知器的扩展，使用了更灵活的激活函数和更复杂的参数估计方法。逻辑回归可以看作是一个概率化的线性分类器，将线性组合的结果转化为概率输出。而感知器仅基于硬阈值进行分类。SVM 则是一种更复杂的分类方法，它可以处理非线性问题，通过使用核函数将数据映射到高维空间来实现更高维度的分类边界。总而言之，感知器和逻辑回归是线性分类器的基础，而 SVM 则是一种更具表现力和灵活性的分类器，可以处理更复杂的问题。
 
-
-
+更多细节见 [Connections between Perceptron and Logistic Regression (and SVM)](https://www.cs.utexas.edu/~gdurrett/courses/online-course/perc-lr-connections.pdf)
