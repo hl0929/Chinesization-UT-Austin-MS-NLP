@@ -10,3 +10,5 @@
 
 
 [Week 1: Intro and Linear Classification](./src/week1/README.md)
+
+[Week 2: Multiclass and Neural Classification](./src/week2/README.md)
