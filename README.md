@@ -14,3 +14,5 @@
 [Week 2: Multiclass and Neural Classification](./src/week2/README.md)
 
 [Week 3: Word Embeddings](./src/week3/README.md)
+
+[Week 4: Language Modeling and Self-Attention](./src/week4/README.md)
