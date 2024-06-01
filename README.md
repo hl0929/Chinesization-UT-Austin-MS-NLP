@@ -15,4 +15,7 @@
 
 [Week 3: Word Embeddings](./src/week3/README.md)
 
-[Week 4: Language Modeling and Self-Attention](./src/week4/README.md)
+[Week 4: Language Modeling](./src/week4/README.md)
+
+[Week 5: Transformers and Decoding](./src/week5/README.md)
+
