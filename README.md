@@ -20,3 +20,5 @@
 [Week 5: Transformers and Decoding](./src/week5/README.md)
 
 [Week 6: Pre-training, seq2seq LMs](./src/week6/README.md)
+
+[Week 7: Structured Prediction](./src/week7/README.md)
