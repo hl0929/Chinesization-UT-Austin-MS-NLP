@@ -9,16 +9,18 @@
 课程讲义：[The slides and handwritten notes](resources/slides-notes)
 
 
-[Week 1: Intro and Linear Classification](./src/week1/README.md)
+* [Week 1: Intro and Linear Classification](./src/week1/README.md)
 
-[Week 2: Multiclass and Neural Classification](./src/week2/README.md)
+* [Week 2: Multiclass and Neural Classification](./src/week2/README.md)
 
-[Week 3: Word Embeddings](./src/week3/README.md)
+* [Week 3: Word Embeddings](./src/week3/README.md)
 
-[Week 4: Language Modeling](./src/week4/README.md)
+* [Week 4: Language Modeling](./src/week4/README.md)
 
-[Week 5: Transformers and Decoding](./src/week5/README.md)
+* [Week 5: Transformers and Decoding](./src/week5/README.md)
 
-[Week 6: Pre-training, seq2seq LMs](./src/week6/README.md)
+* [Week 6: Pre-training, seq2seq LMs](./src/week6/README.md)
 
-[Week 7: Structured Prediction](./src/week7/README.md)
+* [Week 7: Structured Prediction](./src/week7/README.md)
+
+* [Week 8: Modern Large Language Models](./src/week8/README.md)
