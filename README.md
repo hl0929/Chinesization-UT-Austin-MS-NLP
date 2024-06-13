@@ -24,3 +24,5 @@
 * [Week 7: Structured Prediction](./src/week7/README.md)
 
 * [Week 8: Modern Large Language Models](./src/week8/README.md)
+
+* [Week 9: Explanations](./src/week9/README.md)
