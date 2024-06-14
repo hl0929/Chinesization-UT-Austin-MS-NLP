@@ -26,3 +26,7 @@
 * [Week 8: Modern Large Language Models](./src/week8/README.md)
 
 * [Week 9: Explanations](./src/week9/README.md)
+
+* [Week 10: Application](./src/week10/README.md)
+
+* [Week 11: Frontier Research](./src/week11/README.md)
